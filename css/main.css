@@ -10,13 +10,16 @@ h1 {
 
 div {
     outline: 1px solid green;
-    width: 550px;
-    height: 470;
+    width: 600px;
+    height: 470px;
     overflow: auto;
 }
 
+.container {
+    padding: 5px;
+}
 
-li {
+p {
     outline: 1px solid black;
     list-style: none;
     display: inline-block;
@@ -35,7 +38,8 @@ li {
     width: 150px;
     height: 150px;
     float: left;
-    margin: 15px;
+    margin: 10px;
+
 }
 
 img {
@@ -54,32 +58,32 @@ img {
 #lorena {
     position: relative;
     top: 170px;
-    left: 245px;
+    left: 130px;
 }
 
 #eva {
     position: relative;
     top: 170px;
-    left: 200px;
+    left: 220px;
 }
 
 #jenny {
     position: relative;
-    top: 350px;
-    left: 73px;
+    top: 340px;
+    right: 35px;
 }
 
 #cyntia {
     position: relative;
-    top: 350px;
-    right: 215px;
+    top: 340px;
+    right: 330px;
     
 }
 
 #claudia {
     position: relative;
-    top: 350px;
-    left: 270px;
+    top: 340px;
+    right: 105px;
 }
 
 
