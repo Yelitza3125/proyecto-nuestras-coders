@@ -4,6 +4,7 @@ h1,div {
 
 h1 {
     outline: 1px solid red;
+    display: inline;
 }
 
 div {
@@ -20,9 +21,16 @@ li {
     display: inline-block;
 }
 
+.img {
+    outline: 1px solid blueviolet;
+    width: 150px;
+    height: 150px;
+}
+
 img {
     outline: 1px solid palevioletred;
     display: block;
+    float: left;
 }
 
 span {
