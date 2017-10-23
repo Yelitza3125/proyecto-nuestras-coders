@@ -15,13 +15,9 @@ div {
     overflow: auto;
 }
 
-ul {
-    outline: 1px solid blue;
-    position: relative; 
-}
 
 li {
-    outline: 1px solid orange;
+    outline: 1px solid black;
     list-style: none;
     display: inline-block;
 
@@ -50,7 +46,7 @@ img {
 }
 
 #melisa {
-    position: absolute;
+    position: relative;
     top: 170px;
     left: 57px; 
 }
@@ -62,19 +58,19 @@ img {
 }
 
 #eva {
-    position: absolute;
+    position: relative;
     top: 170px;
-    left: 440px;
+    left: 200px;
 }
 
 #jenny {
-    position: absolute;
+    position: relative;
     top: 350px;
     left: 73px;
 }
 
 #cyntia {
-    position: absolute;
+    position: relative;
     top: 350px;
     right: 215px;
     
