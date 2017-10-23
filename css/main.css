@@ -10,6 +10,7 @@ h1 {
 div {
     outline: 1px solid green;
     width: 550px;
+    height: 470;
     overflow: auto;
 }
 
@@ -25,17 +26,6 @@ li {
 
 }
 
-#melisa {
-    position: absolute;
-    top: 170px;  
-}
-
-#lorena {
-    position: absolute;
-    top: 170px;
-    left: 250px;
-}
-
 .img {
     outline: 1px solid blueviolet;
     width: 150px;
@@ -49,6 +39,43 @@ img {
     display: block; 
     width: 150px;
     height: 150px;
+}
+
+#melisa {
+    position: absolute;
+    top: 170px;
+    left: 57px; 
+}
+
+#lorena {
+    position: relative;
+    top: 170px;
+    left: 245px;
+}
+
+#eva {
+    position: absolute;
+    top: 170px;
+    left: 440px;
+}
+
+#jenny {
+    position: absolute;
+    top: 350px;
+    left: 73px;
+}
+
+#cyntia {
+    position: absolute;
+    top: 350px;
+    right: 215px;
+    
+}
+
+#claudia {
+    position: relative;
+    top: 350px;
+    left: 270px;
 }
 
 
