@@ -3,7 +3,7 @@ h1,div {
 }
 
 h1 {
-    outline: 1px solid red;
+    /*outline: 1px solid red;*/
     display: inline;
 }
 
@@ -28,9 +28,10 @@ li {
 }
 
 .rectangulo {
-    width: 3px; 
-    height: 1px; 
+    width: 117px; 
+    height: 4px; 
     background: #000;
+    margin-top: 10px;
 }
 
 .img {
