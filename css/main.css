@@ -15,7 +15,7 @@ div {
 
 ul {
     outline: 1px solid blue;
-    position: relative;
+    position: relative; 
 }
 
 li {
@@ -27,7 +27,13 @@ li {
 
 #melisa {
     position: absolute;
-    top: 150px;
+    top: 170px;  
+}
+
+#lorena {
+    position: absolute;
+    top: 180px;
+    left: 250px;
 }
 
 .img {
