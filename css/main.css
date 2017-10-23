@@ -31,8 +31,8 @@ img {
     outline: 1px solid palevioletred;
     display: block;
     float: left;
+    width: 150px;
+    height: 150px;
 }
 
-span {
-    outline: 1px solid yellow;
-}
+
