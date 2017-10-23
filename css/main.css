@@ -7,6 +7,7 @@ h1 {
     display: inline;
 }
 
+
 div {
     outline: 1px solid green;
     width: 550px;
@@ -24,6 +25,12 @@ li {
     list-style: none;
     display: inline-block;
 
+}
+
+.rectangulo {
+    width: 3px; 
+    height: 1px; 
+    background: #000;
 }
 
 .img {
