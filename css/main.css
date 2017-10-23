@@ -9,6 +9,8 @@ h1 {
 
 div {
     outline: 1px solid green;
+    width: 550px;
+    overflow: auto;
 }
 
 ul {
