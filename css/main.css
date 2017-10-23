@@ -25,12 +25,13 @@ li {
     outline: 1px solid blueviolet;
     width: 150px;
     height: 150px;
+    float: left;
+    margin: 15px;
 }
 
 img {
     outline: 1px solid palevioletred;
-    display: block;
-    float: left;
+    display: block; 
     width: 150px;
     height: 150px;
 }
