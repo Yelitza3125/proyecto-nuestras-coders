@@ -17,4 +17,14 @@ ul {
 li {
     outline: 1px solid orange;
     list-style: none;
+    display: inline-block;
+}
+
+img {
+    outline: 1px solid palevioletred;
+    display: block;
+}
+
+span {
+    outline: 1px solid yellow;
 }
