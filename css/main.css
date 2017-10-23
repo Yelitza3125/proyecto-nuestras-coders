@@ -1,3 +1,19 @@
 h1,div {
     font-family: 'Roboto Slab', serif;
 }
+
+h1 {
+    outline: 1px solid red;
+}
+
+div {
+    outline: 1px solid green;
+}
+
+ul {
+    outline: 1px solid blue;
+}
+
+li {
+    outline: 1px solid orange;
+}
