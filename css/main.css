@@ -9,7 +9,7 @@ h1 {
 
 
 div {
-    outline: 1px solid green;
+    /*outline: 1px solid green; */
     width: 600px;
     height: 470px;
     overflow: auto;
@@ -20,9 +20,10 @@ div {
 }
 
 p {
-    outline: 1px solid black;
-    list-style: none;
+    /*outline: 1px solid black;*/
     display: inline-block;
+    color: #fff;
+    font-size: 12px;
 
 }
 
@@ -34,7 +35,7 @@ p {
 }
 
 .img {
-    outline: 1px solid blueviolet;
+    /*outline: 1px solid blueviolet; */
     width: 150px;
     height: 150px;
     float: left;
@@ -43,7 +44,7 @@ p {
 }
 
 img {
-    outline: 1px solid palevioletred;
+    /*outline: 1px solid palevioletred; */
     display: block; 
     width: 150px;
     height: 150px;
@@ -51,39 +52,39 @@ img {
 
 #melisa {
     position: relative;
-    top: 170px;
-    left: 57px; 
+    top: 165px;
+    left: 75px; 
 }
 
 #lorena {
     position: relative;
-    top: 170px;
-    left: 130px;
+    top: 165px;
+    left: 170px;
 }
 
 #eva {
     position: relative;
-    top: 170px;
-    left: 220px;
+    top: 165px;
+    left: 280px;
 }
 
 #jenny {
     position: relative;
-    top: 340px;
-    right: 35px;
+    top: 335px;
+    right: 125px;
 }
 
 #cyntia {
     position: relative;
-    top: 340px;
-    right: 330px;
+    top: 335px;
+    right: 45px;
     
 }
 
 #claudia {
     position: relative;
-    top: 340px;
-    right: 105px;
+    top: 335px;
+    left: 40px;
 }
 
 
