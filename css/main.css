@@ -16,4 +16,5 @@ ul {
 
 li {
     outline: 1px solid orange;
+    list-style: none;
 }
