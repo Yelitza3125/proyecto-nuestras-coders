@@ -40,4 +40,19 @@ span {
     right: 20%;
     bottom: 20%;  
 }
-  
+
+figure {
+    /*outline: 1px solid red;*/
+    margin-top: 15px;
+    padding: 0;
+    overflow: auto;
+    width: 550px;
+}
+
+figure img {
+    /*outline: 1px solid blueviolet; */
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 5px;
+}
