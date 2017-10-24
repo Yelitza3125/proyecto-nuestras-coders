@@ -23,4 +23,21 @@ header {
       background: #000;
       margin-top: 5px;
   }
+
+  div {  
+    width: 180px;
+    height: 180px;   
+    display: inline-block;
+    position: relative;
+}
+
+span {
+    /*outline: 1px solid black;*/
+    color: #fff;
+    font-weight: 200px;
+    font-size: 12px;
+    position: absolute;
+    right: 20%;
+    bottom: 20%;  
+}
   
